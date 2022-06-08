@@ -3,7 +3,7 @@
 - 👀 I’m interested in space exploration, environmental science, and videogame design.
 - 🌱 I’m currently searching for employment in the web development field.
 - 💞️ I’m looking to collaborate on future video games, or anything that helps people in their day-to-day lives!
--     However, being part of any project is a great opportunity, and am always willing to help!
+-    However, being part of any project is a great opportunity, and am always willing to help!
 - 📫 Contact me! Phone: (210)632-0508   Email: jhorger95@gmail.com
 
 <!---
